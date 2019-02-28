@@ -1,3 +1,3 @@
 # datamine
 
-code to demonstrate simple association mining
+code to demonstrate simple association rule mining
