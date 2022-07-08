@@ -1,3 +1,3 @@
 # datamine
 
-Simple association rule mining
+Simple data
